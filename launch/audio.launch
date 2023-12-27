@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+
+<launch>
+  <node pkg="home_online_audio_kit_pkg" name="online_audio_kit" type="audio.py" required="true" output="screen" />
+</launch>
